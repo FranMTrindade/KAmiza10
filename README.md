@@ -1,4 +1,4 @@
-# KAmiza10
+# Kmisa10
 
 Projeto desenvolvido utilizando Expo.
 
